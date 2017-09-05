@@ -1,0 +1,17 @@
+[22-Aug-2017 17:06:39 America/Chicago] PHP Warning:  require_once(/home/lably/public_html/loja/system/core/CodeIgniter.php): failed to open stream: No such file or directory in /home/lably/public_html/loja/index.php on line 315
+[22-Aug-2017 17:06:39 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/lably/public_html/loja/system/core/CodeIgniter.php' (include_path='.:/opt/php56/lib/php') in /home/lably/public_html/loja/index.php on line 315
+[22-Aug-2017 17:07:24 America/Chicago] PHP Warning:  include(/home/lably/public_html/loja/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/lably/public_html/loja/system/core/Exceptions.php on line 268
+[22-Aug-2017 17:07:24 America/Chicago] PHP Warning:  include(): Failed opening '/home/lably/public_html/loja/application/views/errors/html/error_php.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/lably/public_html/loja/system/core/Exceptions.php on line 268
+[22-Aug-2017 17:07:24 America/Chicago] PHP Warning:  include(/home/lably/public_html/loja/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/lably/public_html/loja/system/core/Exceptions.php on line 268
+[22-Aug-2017 17:07:24 America/Chicago] PHP Warning:  include(): Failed opening '/home/lably/public_html/loja/application/views/errors/html/error_php.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/lably/public_html/loja/system/core/Exceptions.php on line 268
+[23-Aug-2017 17:30:10 America/Chicago] PHP Fatal error:  Call to undefined method Categorias_model::listar_categorias() in /home/lably/public_html/loja/application/controllers/Categorias.php on line 10
+[23-Aug-2017 17:30:36 America/Chicago] PHP Fatal error:  Call to undefined function limpar() in /home/lably/public_html/loja/application/views/categorias.php on line 17
+[23-Aug-2017 17:30:38 America/Chicago] PHP Fatal error:  Call to undefined function limpar() in /home/lably/public_html/loja/application/views/categorias.php on line 17
+[23-Aug-2017 23:19:15 America/Chicago] PHP Fatal error:  Call to undefined function limpar() in /home/lably/public_html/loja/application/views/categorias.php on line 17
+[23-Aug-2017 23:37:48 America/Chicago] PHP Fatal error:  Call to undefined function limpar() in /home/lably/public_html/loja/application/views/categorias.php on line 17
+[24-Aug-2017 01:43:59 America/Chicago] PHP Fatal error:  Call to undefined function limpar() in /home/lably/public_html/loja/application/views/categorias.php on line 17
+[24-Aug-2017 02:05:43 America/Chicago] PHP Fatal error:  Call to undefined function limpar() in /home/lably/public_html/loja/application/views/categorias.php on line 17
+[24-Aug-2017 02:05:46 America/Chicago] PHP Fatal error:  Call to undefined function limpar() in /home/lably/public_html/loja/application/views/categorias.php on line 17
+[24-Aug-2017 02:06:20 America/Chicago] PHP Fatal error:  Call to undefined function limpar() in /home/lably/public_html/loja/application/views/categorias.php on line 17
+[24-Aug-2017 02:29:00 America/Chicago] PHP Parse error:  syntax error, unexpected ''"]/'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) in /home/lably/public_html/loja/application/helpers/funcoes_helper.php on line 5
+[28-Aug-2017 12:44:26 America/Chicago] PHP Fatal error:  Call to undefined function world_limiter() in /home/lably/public_html/loja/application/views/home.php on line 15
